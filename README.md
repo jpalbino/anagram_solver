@@ -25,7 +25,9 @@ This will only need to be done once.
 `-s, --style [STYLE]`
 > STYLE can either be "human" or "inhuman"
 > > "human" looks more real to other players
+
 > > "inhuman" is just ridiculous
+
 > > Default is "human"
 
 `-e, --[no-]emulate`
