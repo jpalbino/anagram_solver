@@ -24,15 +24,16 @@ This will only need to be done once.
 
 `-s, --style [STYLE]`
 > STYLE can either be "human" or "inhuman"
-> > "human" looks more real to other players
+> "human" looks more real to other players
 
-> > "inhuman" is just ridiculous
+> "inhuman" is just ridiculous
 
-> > Default is "human"
+> Default is "human"
 
 `-e, --[no-]emulate`
 > Emulate the keystrokes for the anagrams
-> > Default is true
+
+> Default is true
 
 `-r, --reset`
 > Reset the word list set with -w
