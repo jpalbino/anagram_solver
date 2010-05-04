@@ -13,8 +13,24 @@ The emulate option is really cool, especially when playing online anagram solvin
 
     > anagram_solver
 
-This will create a wordlist for you from the resources packaged with the project.
-This will only need to be done once.
+This will create a wordlist for you from the resources packaged with the project. This will only need to be done once.  
+From here you will see something like this:
+
+    > Find anagram for:
+
+Type in `dpaset` and you should see:
+
+    #===------------------------------===#
+    #===--- STARTING IN 03 SECONDS ---===#
+    #!!!---     CLICK THE GAME     ---!!!#
+    #===------------------------------===#
+    #===--- 3.. 2.. 1.. STARTING.. ---===#
+    #===------------------------------===#
+
+Go ahead and click on the anagram you are playing and watch as it plays the game for you.  
+Currently, this only works for Windows.
+
+You can run the program with `--no-emulate` if you prefer to just see a list of anagrams.
 
 ## Options
 
