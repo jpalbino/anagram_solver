@@ -9,21 +9,28 @@ The emulate option is really cool, especially when playing online anagram solvin
     > git clone git@github.com:c00lryguy/anagram_solver.git
     > cd anagram_solver
 
+# Usage
+
+    > anagram_solver
+
+This will create a wordlist for you from the resources packaged with the project.
+This will only need to be done once.
+
 ## Options
 
 `-w, --wordlist [WORDLIST]`
 > Set the wordlist
-> > The default is resources/wordlist.sav
+>   The default is resources/wordlist.sav
 
 `-s, --style [STYLE]`
 > STYLE can either be "human" or "inhuman"
-> > "human" looks more real to other players
-> > "inhuman" is just ridiculous
-> > Default is "human"
+>   "human" looks more real to other players
+>   "inhuman" is just ridiculous
+>   Default is "human"
 
 `-e, --[no-]emulate`
 > Emulate the keystrokes for the anagrams
-> > Default is true
+>   Default is true
 
 `-r, --reset`
 > Reset the word list set with -w
