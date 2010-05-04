@@ -28,6 +28,7 @@ This will only need to be done once.
 > 
 > "human" looks more real to other players  
 > "inhuman" is just ridiculous  
+>  
 > Default is "human"
 
 `-e, --[no-]emulate`
