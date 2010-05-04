@@ -28,6 +28,7 @@ Type in `dpaset` and you should see:
     #===------------------------------===#
 
 Go ahead and click on the anagram you are playing and watch as it plays the game for you.  
+Eventually, it will type in `pasted`, becuase it is an anagram of `dpaset`.  
 Currently, this only works for Windows.
 
 You can run the program with `--no-emulate` if you prefer to just see a list of anagrams.
