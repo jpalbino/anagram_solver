@@ -20,16 +20,19 @@ This will only need to be done once.
 
 `-w, --wordlist [WORDLIST]`
 > Set the wordlist  
+> 
 > The default is resources/wordlist.sav
 
 `-s, --style [STYLE]`
-> STYLE can either be "human" or "inhuman"  
+> STYLE can either be "human" or "inhuman" 
+> 
 > "human" looks more real to other players  
 > "inhuman" is just ridiculous  
 > Default is "human"
 
 `-e, --[no-]emulate`
-> Emulate the keystrokes for the anagrams  
+> Emulate the keystrokes for the anagrams 
+>  
 > Default is true
 
 `-r, --reset`
