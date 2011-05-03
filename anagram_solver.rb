@@ -117,8 +117,8 @@ loop do
             found_words.compact.shuffle.each_with_index do |word, index|
                 word.each_char { |c|
                     if OPTIONS[:style] == :human
-                        if rand(4) == 0
-                            sleep 0.05
+                        if rand(1) == 0
+                            sleep 0.1
                         else
                             sleep rand
                         end
@@ -133,7 +133,7 @@ loop do
                 puts ''
                 
                 if OPTIONS[:style] == :human
-                    if rand(4) == 0
+                    if rand(3) == 0
                         sleep 0.05
                     else
                         sleep rand
